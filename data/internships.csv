@@ -1,0 +1,31 @@
+title,company,location,skills,duration,stipend_monthly,internship_type,description,source
+Python Developer Intern,TechCorp Solutions,Hyderabad,"Python; Flask; Git; Basic SQL",3 Months,15000,Hybrid,Work with senior developers on building REST APIs and writing clean unit test suites.,LinkedIn
+Data Analytics Intern,Analytics Insights Inc,Bengaluru,"Python; SQL; Excel; Pandas; Matplotlib",6 Months,20000,On-site,Assist in cleaning operational datasets and building visual analytics dashboards.,Naukri
+Frontend Web Intern,WebCraft Innovations,Remote,"HTML; CSS; JavaScript; Git",3 Months,12000,Remote,Develop modular UI components and ensure cross-browser styling compatibility.,Glassdoor
+Machine Learning Intern,AI Tech Labs,Bengaluru,"Python; NumPy; Pandas; Scikit-Learn",6 Months,25000,On-site,Help train baseline machine learning models and organize data preprocessing tasks.,LinkedIn
+Software Development Intern,Enterprise Systems,Pune,"Java; Data Structures; OOP; SQL",6 Months,18000,On-site,Participate in core software development bug fixing and database query tuning.,Indeed
+Full Stack Developer Intern,CloudNative Corp,Hyderabad,"Python; HTML; CSS; JavaScript; MongoDB",4 Months,16000,Hybrid,Build internal web dashboard features using Python backend and responsive HTML/CSS.,Naukri
+Junior Data Science Intern,Neural AI Labs,Remote,"Python; Statistics; Pandas; SQL",3 Months,22000,Remote,Perform exploratory data analysis on real-world datasets and compile analytical reports.,LinkedIn
+DevOps Intern,CloudOps Solutions,Hyderabad,"Linux; Git; Docker; Bash Scripting",3 Months,15000,Hybrid,Learn CI/CD automation practices Docker containerization and server monitoring scripts.,Naukri
+UI/UX Design & Frontend Intern,Creative Design Studio,Bengaluru,"HTML; CSS; Figma; JavaScript",3 Months,14000,On-site,Convert Figma visual designs into clean HTML/CSS templates for client projects.,Glassdoor
+Database Admin Intern,DB Cloud Tech,Delhi NCR,"SQL; MySQL; MongoDB; Database Concepts",6 Months,15000,On-site,Assist DBAs in database maintenance indexing tasks and query optimization.,Indeed
+Backend API Intern,ConnectTech,Hyderabad,"Python; REST API; Flask; Git",3 Months,15000,Hybrid,Develop RESTful endpoints and document API routes using Swagger or Postman.,Naukri
+React Web Developer Intern,NextGen Apps,Remote,"JavaScript; React; HTML; CSS",4 Months,18000,Remote,Build reusable React component libraries and connect them with JSON REST services.,LinkedIn
+Python Automation Intern,TestAuto Systems,Pune,"Python; Selenium; Basic SQL",3 Months,12000,On-site,Write automated test scripts for web applications and log bug reports.,Indeed
+Data Analyst Intern,FinData Analytics,Pune,"Python; Excel; SQL; Power BI",6 Months,16000,On-site,Extract client data calculate financial KPIs and generate weekly Power BI visual reports.,Naukri
+Cloud Software Intern,Wipro,Bengaluru,"Java; AWS Fundamentals; SQL; Git",6 Months,22000,On-site,Learn cloud application architecture and participate in agile team standups.,Company Portal
+Systems Trainee Intern,Infosys,Mysuru,"Python; C++; SQL; Data Structures",6 Months,20000,On-site,Comprehensive software development training followed by project shadow assignments.,Company Portal
+Graduate Tech Intern,TCS,Hyderabad,"Java; SQL; HTML; CSS",6 Months,18000,On-site,Assist software teams in unit testing documentation and database querying.,Company Portal
+AI & ML Research Intern,VisionTech Research,Bengaluru,"Python; Machine Learning; OpenCV; TensorFlow",6 Months,30000,On-site,Conduct literature review and benchmark baseline computer vision algorithms.,LinkedIn
+Business Intelligence Intern,DataViz Corp,Bengaluru,"SQL; Tableau; Excel; Python",3 Months,15000,Hybrid,Create executive summary dashboards and clean tabular data sources.,Glassdoor
+Data Engineering Intern,Pipeline Works,Hyderabad,"Python; SQL; Linux; Git",4 Months,17000,Hybrid,Help build automated data extraction scripts and schedule cron data pipelines.,Indeed
+Cybersecurity Intern,SecureNet Systems,Delhi NCR,"Python; Linux; Networking; Security",6 Months,20000,On-site,Analyze security log events run network scans and write defensive scripts.,Naukri
+Web Application Intern,Innovate Digital,Remote,"HTML; CSS; JavaScript; Django",3 Months,13000,Remote,Assist web team with frontend styling adjustments and Django template updates.,Glassdoor
+Software Engineering Intern,Amazon,Bengaluru,"Java; Python; Algorithms; Data Structures",3 Months,45000,On-site,Work directly with Amazon engineering mentors on high-scale backend services.,LinkedIn
+Software Intern,Microsoft,Hyderabad,"C#; Python; Data Structures; Algorithms",3 Months,50000,On-site,Build feature extensions for enterprise developer tools under mentor guidance.,LinkedIn
+Data Operations Intern,Flipkart,Bengaluru,"SQL; Excel; Python; Data Cleaning",6 Months,22000,On-site,Audit catalog product data detect missing attributes and run verification queries.,Company Portal
+Python Full Stack Intern,OmniTech Solutions,Delhi NCR,"Python; Flask; JavaScript; MongoDB",4 Months,15000,Hybrid,Implement full stack features for internal company web tools.,Indeed
+Mobile App Developer Intern,AppSphere,Remote,"JavaScript; React Native; Git",3 Months,16000,Remote,Help prototype mobile app views and integrate frontend screens with backend APIs.,Glassdoor
+Quality Assurance Intern,QualityFirst Tech,Hyderabad,"Python; Manual Testing; SQL; Jira",3 Months,10000,On-site,Perform manual test execution report UI bugs and write basic automated test scripts.,Naukri
+Database Engineering Intern,DataVault Systems,Delhi NCR,"SQL; PostgreSQL; Python",6 Months,16000,On-site,Assist in writing SQL queries index tuning and database migration tasks.,Indeed
+NLP & AI Intern,DeepData AI,Pune,"Python; Natural Language Processing; Pandas; NLTK",6 Months,25000,Hybrid,Build text preprocessing pipelines and benchmark entity extraction algorithms.,LinkedIn
